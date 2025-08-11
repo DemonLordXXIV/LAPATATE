@@ -1,6 +1,6 @@
 title: Potato Charm
 originalAuthor: DemonLordXXIV
-description: 'Replaces the icon of Promise Charm by a potato (for potato PC (Promise Charm))'
+description: 'Replaces the icon of the Promise Charm by a potato (for potato PC (Promise Charm))'
 assets:
 - name: remastered/itempic/item-242.imd/-0.dds
   method: copy
